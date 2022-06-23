@@ -1,0 +1,1 @@
+# Reverse-and-Palindromic-number
